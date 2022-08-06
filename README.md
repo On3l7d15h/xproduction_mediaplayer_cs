@@ -14,7 +14,7 @@ One more time, we are here with a new project developed in C#, yes, it's a Media
 
 
 
-![](C:\Users\onell\Desktop\C%23%20projects\xproduction_mediaplayer_C%23\preview\preview1.png)
+![](preview/preview1.png)
 
 ---
 
@@ -38,9 +38,9 @@ One more time, we are here with a new project developed in C#, yes, it's a Media
 
 ### Características:
 
-![](C:\Users\onell\Desktop\C%23%20projects\xproduction_mediaplayer_C%23\preview\preview2.png)
+![](preview/preview2.png)
 
-![](C:\Users\onell\Desktop\C%23%20projects\xproduction_mediaplayer_C%23\preview\preview3.png)
+![](preview/preview3.png)
 
 - Operaciones básicas:
   
